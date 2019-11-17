@@ -8,12 +8,8 @@
 <img src="images/natural_disaster.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Flight Delay Report](https://public.tableau.com/profile/wildan.putra#!/vizhome/FlightDelayReportQ4USA/Story1)
+<img src="images/flight_delay.jpg?raw=true"/>
 
 ---
 
