@@ -2,7 +2,7 @@
 
 ---
 
-### Data Visualization
+### [Data Visualization](https://wildanputra.github.io/dataviz.md) | [Deep Learning](https://wildanputra.github.io/deeplearn.md)
 
 [Natural Disaster in Indonesia](https://public.tableau.com/profile/indra.falah#!/vizhome/Bencanav2_0/NaturalDisasterinIndonesia)
 <img src="images/natural_disaster.jpg?raw=true"/>
